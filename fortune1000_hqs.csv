@@ -1,0 +1,1001 @@
+Rank,Company,City,State
+1,Walmart,Bentonville,AR
+2,Exxon Mobil,Irving,TX
+3,Berkshire Hathaway,Omaha,NE
+4,Apple,Cupertino,CA
+5,UnitedHealth Group,Minnetonka,MN
+6,McKesson,SF,CA
+7,CVS Health,Woonsocket,RI
+8,Amazon.com,Seattle,WA
+9,AT&T,Dallas,TX
+10,General Motors,Detroit,MI
+11,Ford Motor,Dearborn,MI
+12,AmerisourceBergen,Chesterbrook,PA
+13,Chevron,San Ramon,CA
+14,Cardinal Health,Dublin,OH
+15,Costco,Issaquah,WA
+16,Verizon,New York,NY
+17,Kroger,Cincinnati,OH
+18,General Electric,Boston,MA
+19,Walgreens Boots Alliance,Deerfield,IL
+20,JPMorgan Chase,New York,NY
+21,Fannie Mae,Leavenworth,WA
+22,Alphabet,Mountain View,CA
+23,Home Depot,Atlanta,GA
+24,Bank of America Corp.,Charlotte,NC
+25,Express Scripts Holding,St. Louis,MO
+26,Wells Fargo,SF,CA
+27,Boeing,Chicago,IL
+28,Phillips 66,Houston,TX
+29,Anthem,Indianapolis,IN
+30,Microsoft,Redmond,WA
+31,Valero Energy,San Antonio,TX
+32,Citigroup,New York,NY
+33,Comcast,Philadelphia,PA
+34,IBM,Armonk,NY
+35,Dell Technologies,Round Rock,TX
+36,State Farm Insurance Cos.,Bloomington,IL
+37,Johnson & Johnson,New Brunswick,NJ
+38,Freddie Mac,McLean,VA
+39,Target,Minneapolis,MN
+40,Lowes,Mooresville,NC
+41,Marathon Petroleum,Findlay,OH
+42,Procter & Gamble,Cincinnati,OH
+43,MetLife,New York,NY
+44,UPS,Atlanta,GA
+45,PepsiCo,Harrison,NY
+46,Intel,Santa Clara,CA
+47,DowDuPont,Midland,MI
+48,Archer Daniels Midland,Chicago,IL
+49,Aetna,Hartford,CT
+50,FedEx,Memphis,TN
+51,United Technologies,Farmington,CT
+52,Prudential Financial,Newark,NJ
+53,Albertsons Cos.,Boise,ID
+54,Sysco,Houston,TX
+55,Disney,Burbank,CA
+56,Humana,Louisville,KY
+57,Pfizer,New York,NY
+58,HP,Palo Alto,CA
+59,Lockheed Martin,Bethesda,MD
+60,AIG,New York,NY
+61,Centene,St. Louis,MO
+62,Cisco Systems,San Jose,CA
+63,HCA Healthcare,Nashville,TN
+64,Energy Transfer Equity,Dallas,TX
+65,Caterpillar,Deerfield,IL
+66,Nationwide,Columbus,OH
+67,Morgan Stanley,New York,NY
+68,Liberty Mutual Insurance Group,Boston,MA
+69,New York Life Insurance,New York,NY
+70,Goldman Sachs Group,New York,NY
+71,American Airlines Group,Fort Worth,TX
+72,Best Buy,Richfield,MN
+73,Cigna,Bloomfield,CT
+74,Charter Communications,Stamford,CT
+75,Delta Air Lines,Atlanta,GA
+76,Facebook,Menlo Park,CA
+77,Honeywell International,Morris Plains,NJ
+78,Merck,Kenilworth,NJ
+79,Allstate,Northbrook,IL
+80,Tyson Foods,Springdale,AR
+81,United Continental Holdings,Chicago,IL
+82,Oracle,Redwood City,CA
+83,Tech Data,Clearwater,FL
+84,TIAA,New York,NY
+85,TJX,Framingham,MA
+86,American Express,New York,NY
+87,Coca-Cola,Atlanta,GA
+88,Publix Super Markets,Lakeland,FL
+89,Nike,Beaverton,OR
+90,Andeavor,San Antonio,TX
+91,World Fuel Services,Miami,FL
+92,Exelon,Chicago,IL
+93,Massachusetts Mutual Life Insurance,Springfield,MA
+94,Rite Aid,Camp Hill,PA
+95,ConocoPhillips,Houston,TX
+96,CHS,Inver Grove Heights,MN
+97,3M,St Paul,MN
+98,Time Warner,New York,NY
+99,General Dynamics,Falls Church,VA
+100,USAA,San Antonio,TX
+101,Capital One Financial,McLean,VA
+102,Deere,Moline,IL
+103,INTL FCStone,New York,NY
+104,Northwestern Mutual,Milwaukee,WI
+105,Enterprise Products Partners,Houston,TX
+106,Travelers Cos.,New York,NY
+107,Hewlett Packard Enterprise,Palo Alto,CA
+108,Philip Morris International,New York,NY
+109,Twenty-First Century Fox,New York,NY
+110,AbbVie,North Chicago,IL
+111,Abbott Laboratories,Lake Bluff,IL
+112,Progressive,Mayfield,OH
+113,Arrow Electronics,Centennial,CO
+114,Kraft Heinz,Pittsburgh,PA
+115,Plains GP Holdings,Houston,TX
+116,Gilead Sciences,San Mateo,CA
+117,Mondelez International,Deerfield,IL
+118,Northrop Grumman,Falls Church,VA
+119,Raytheon,Waltham,MA
+120,Macys,Cincinnati,OH
+121,US Foods Holding,Rosemont,IL
+122,U.S. Bancorp,Minneapolis,MN
+123,Dollar General,Goodlettsville,TN
+124,International Paper,Memphis,TN
+125,Duke Energy,Charlotte,NC
+126,Southern,Atlanta,GA
+127,Marriott International,Bethesda,MD
+128,Avnet,Phoenix,AZ
+129,Eli Lilly,Indianapolis,IN
+130,Amgen,Thousand Oaks,CA
+131,McDonalds,Oak Brook,IL
+132,Starbucks,Seattle,WA
+133,Qualcomm,San Diego,CA
+134,Dollar Tree,Chesapeake,VA
+135,PBF Energy,Parsippany-Troy Hills,NJ
+136,Icahn Enterprises,New York,NY
+137,Aflac,Columbus,GA
+138,AutoNation,Fort Lauderdale,FL
+139,Penske Automotive Group,Bloomfield Hills,MI
+140,Whirlpool,Benton Harbor,MI
+141,Union Pacific,Omaha,NE
+142,Southwest Airlines,Dallas,TX
+143,ManpowerGroup,Milwaukee,WI
+144,Thermo Fisher Scientific,Waltham,MA
+145,Bristol-Myers Squibb,New York,NY
+146,Halliburton,Houston,TX
+147,Tenet Healthcare,Dallas,TX
+148,Lear,Southfield,MI
+149,Cummins,Columbus,IN
+150,Micron Technology,Boise,ID
+151,Nucor,Charlotte,NC
+152,Molina Healthcare,Long Beach,CA
+153,Fluor,Irving,TX
+154,Altria Group,Richmond,VA
+155,Paccar,Bellevue,WA
+156,Hartford Financial Services,Hartford,CT
+157,Kohls,Menomonee Falls,WI
+158,Western Digital,San Jose,CA
+159,Jabil,St. Petersburg,FL
+160,Community Health Systems,Franklin,TN
+161,Visa,SF,CA
+162,Danaher,Leavenworth,WA
+163,Kimberly-Clark,Irving,TX
+164,AECOM,Los Angeles,CA
+165,PNC Financial Services,Pittsburgh,PA
+166,CenturyLink,Monroe,LA
+167,NextEra Energy,North Palm Beach,FL
+168,PG& E Corp.,SF,CA
+169,Synnex,Fremont,CA
+170,WellCare Health Plans,Tampa,FL
+171,Performance Food Group,Richmond,VA
+172,Sears Holdings,Hoffman Estates,IL
+173,Synchrony Financial,Stamford,CT
+174,CarMax,Richmond,VA
+175,Bank of New York Mellon,New York City,NY
+176,Freeport-McMoRan,Phoenix,AZ
+177,Genuine Parts,Atlanta,GA
+178,Emerson Electric,St. Louis,MO
+179,DaVita,Denver,CO
+180,Supervalu,Eden Prairie,MN
+181,Gap,SF,CA
+182,General Mills,Minneapolis,MN
+183,Nordstrom,Seattle,WA
+184,Colgate-Palmolive,New York,NY
+185,American Electric Power,Columbus,OH
+186,XPO Logistics,Greenwich,CT
+187,Goodyear Tire & Rubber,Akron,OH
+188,Omnicom Group,New York,NY
+189,CDW,Lincolnshire,IL
+190,Sherwin-Williams,Cleveland,OH
+191,PPG Industries,Pittsburgh,PA
+192,Texas Instruments,Dallas,TX
+193,C.H. Robinson Worldwide,Eden Prairie,MN
+194,WestRock,Atlanta,GA
+195,Cognizant Technology Solutions,Teaneck,NJ
+196,Newell Brands,Hoboken,NJ
+197,CBS,New York,NY
+198,Envision Healthcare,Nashville,TN
+199,Monsanto,St. Louis,MO
+200,Aramark,Philadelphia,PA
+201,Applied Materials,Santa Clara,CA
+202,Waste Management,Houston,TX
+203,DISH Network,Englewood,CO
+204,Illinois Tool Works,Glenview,IL
+205,Lincoln National,Wayne,PA
+206,HollyFrontier,Dallas,TX
+207,CBRE Group,Los Angeles,CA
+208,Textron,Providence,RI
+209,Ross Stores,Dublin,CA
+210,Principal Financial,Des Moines,IA
+211,D.R. Horton,Arlington,TX
+212,Marsh & McLennan,New York,NY
+213,Devon Energy,Oklahoma City,OK
+214,AES,Arlington,VA
+215,Ecolab,St Paul,MN
+216,Land O'Lakes,Arden Hills,MN
+217,Loews,New York,NY
+218,Kinder Morgan,Houston,TX
+219,FirstEnergy,Akron,OH
+220,Occidental Petroleum,Houston,TX
+221,Viacom,New York,NY
+222,PayPal Holdings,San Jose,CA
+223,NGL Energy Partners,Tulsa,OK
+224,Celgene,Summit,NJ
+225,Arconic,New York,NY
+226,Kellogg,Battle Creek,MI
+227,Las Vegas Sands,Las Vegas,NV
+228,Stanley Black & Decker,New Britain,CT
+229,Booking Holdings,Norwalk,CT
+230,Lennar,Miami,FL
+231,L Brands,Columbus,OH
+232,DTE Energy,Detroit,MI
+233,Dominion Energy,Richmond,VA
+234,Reinsurance Group of America,Chesterfield,MO
+235,J.C. Penney,Plano,TX
+236,Mastercard,Harrison,NY
+237,BlackRock,New York,NY
+238,Henry Schein,Melville,NY
+239,Guardian Life Ins. Co. of America,New York,NY
+240,Stryker,Kalamazoo,MI
+241,Jefferies Financial Group,New York,NY
+242,VF,Greensboro,NC
+243,ADP,Roseland,NJ
+244,Edison International,Rosemead,CA
+245,Biogen,Cambridge,MA
+246,United States Steel,Pittsburgh,PA
+247,Core-Mark Holding,South San Francisco,CA
+248,Bed Bath & Beyond,Union,NJ
+249,Oneok,Tulsa,OK
+250,BB& T Corp.,Winston-Salem,NC
+251,Becton Dickinson,Franklin Lakes,NJ
+252,Ameriprise Financial,Minneapolis,MN
+253,Farmers Insurance Exchange,Los Angeles,CA
+254,First Data,New York,NY
+255,Consolidated Edison,New York,NY
+256,Parker-Hannifin,Cleveland,OH
+257,Anadarko Petroleum,The Woodlands,TX
+258,Estee Lauder,New York,NY
+259,State Street Corp.,Boston,MA
+260,Tesla,Palo Alto,CA
+261,Netflix,Los Gatos,CA
+262,Alcoa,Pittsburgh,PA
+263,Discover Financial Services,Riverwoods,IL
+264,Praxair,Danbury,CT
+265,CSX,Jacksonville,FL
+266,Xcel Energy,Minneapolis,MN
+267,Unum Group,Chattanooga,TN
+268,Universal Health Services,King of Prussia,PA
+269,NRG Energy,Princeton,NJ
+270,EOG Resources,Houston,TX
+271,Sempra Energy,San Diego,CA
+272,Toys 'R' Us,Wayne,NJ
+273,Group 1 Automotive,Houston,TX
+274,Entergy,New Orleans,LA
+275,Molson Coors Brewing,Denver,CO
+276,L3 Technologies,New York,NY
+277,Ball,Broomfield,CO
+278,AutoZone,Memphis,TN
+279,Murphy USA,El Dorado,AR
+280,MGM Resorts International,Las Vegas,NV
+281,Office Depot,Boca Raton,FL
+282,Huntsman,The Woodlands,TX
+283,Baxter International,Deerfield,IL
+284,Norfolk Southern,Norfolk,VA
+285,salesforce.com,SF,CA
+286,Laboratory Corp. of America,Burlington,NC
+287,W.W. Grainger,Lake Forest,IL
+288,Qurate Retail,Englewood,CO
+289,Autoliv,Auburn Hills,MI
+290,Live Nation Entertainment,Beverly Hills,CA
+291,Xerox,Norwalk,CT
+292,Leidos Holdings,Reston,VA
+293,Corning,Corning,NY
+294,Lithia Motors,Medford,OR
+295,Expedia Group,Bellevue,WA
+296,Republic Services,Phoenix,AZ
+297,Jacobs Engineering Group,Dallas,TX
+298,Sonic Automotive,Charlotte,NC
+299,Ally Financial,Detroit,MI
+300,LKQ,Chicago,IL
+301,BorgWarner,Auburn Hills,MI
+302,Fidelity National Financial,Jacksonville,FL
+303,SunTrust Banks,Atlanta,GA
+304,IQVIA Holdings,Durham,NC
+305,Reliance Steel & Aluminum,Los Angeles,CA
+306,Nvidia,Santa Clara,CA
+307,Voya Financial,New York,NY
+308,CenterPoint Energy,Houston,TX
+309,eBay,San Jose,CA
+310,Eastman Chemical,Kingsport,TN
+311,American Family Insurance Group,Madison,WI
+312,Steel Dynamics,Fort Wayne,IN
+313,Pacific Life,Newport Beach,CA
+314,Chesapeake Energy,Oklahoma City,OK
+315,Mohawk Industries,Calhoun,GA
+316,Quanta Services,Houston,TX
+317,Advance Auto Parts,Roanoke,VA
+318,Owens & Minor,Mechanicsville,VA
+319,United Natural Foods,Providence,RI
+320,Tenneco,Lake Forest,IL
+321,Conagra Brands,Chicago,IL
+322,GameStop,Grapevine,TX
+323,Hormel Foods,Austin,MN
+324,Hilton Worldwide Holdings,McLean,VA
+325,Frontier Communications,Norwalk,CT
+326,Fidelity National Information Services,Jacksonville,FL
+327,Public Service Enterprise Group,Newark,NJ
+328,Boston Scientific,Marlboro,MA
+329,OReilly Automotive,Springfield,MO
+330,Charles Schwab,SF,CA
+331,Global Partners,Waltham,MA
+332,PVH,New York,NY
+333,Avis Budget Group,Parsippany-Troy Hills,NJ
+334,Targa Resources,Houston,TX
+335,Hertz Global Holdings,Estero,FL
+336,Calpine,Houston,TX
+337,Mutual of Omaha Insurance,Omaha,NE
+338,Crown Holdings,Philadelphia,PA
+339,Peter Kiewit Sons,Omaha,NE
+340,Dicks Sporting Goods,Coraopolis,PA
+341,PulteGroup,Atlanta,GA
+342,Navistar International,Lisle,IL
+343,Thrivent Financial for Lutherans,Minneapolis,MN
+344,DCP Midstream,Denver,CO
+345,Air Products & Chemicals,Allentown,PA
+346,Veritiv,Atlanta,GA
+347,AGCO,Duluth,GA
+348,Genworth Financial,Richmond,VA
+349,Univar,Downers Grove,IL
+350,News Corp.,New York,NY
+351,SpartanNash,Byron Center,MI
+352,Westlake Chemical,Houston,TX
+353,Williams,Tulsa,OK
+354,Lam Research,Fremont,CA
+355,Alaska Air Group,Seattle,WA
+356,Jones Lang LaSalle,Chicago,IL
+357,Anixter International,Glenview,IL
+358,Campbell Soup,Camden,NJ
+359,Interpublic Group,New York,NY
+360,Dover,Downers Grove,IL
+361,Zimmer Biomet Holdings,Warsaw,IN
+362,Dean Foods,Dallas,TX
+363,Foot Locker,New York,NY
+364,Eversource Energy,Springfield,MA
+365,Alliance Data Systems,Plano,TX
+366,Fifth Third Bancorp,Cincinnati,OH
+367,Quest Diagnostics,Secaucus,NJ
+368,EMCOR Group,Norwalk,CT
+369,W.R. Berkley,Greenwich,CT
+370,WESCO International,Pittsburgh,PA
+371,Coty,New York,NY
+372,WEC Energy Group,Milwaukee,WI
+373,Masco,Livonia,MI
+374,DXC Technology,Tysons,VA
+375,Auto-Owners Insurance,Lansing,MI
+376,Jones Financial (Edward Jones),Des Peres,MO
+377,Liberty Media,Englewood,CO
+378,Erie Insurance Group,Erie,PA
+379,Hershey,Hershey,PA
+380,PPL,Allentown,PA
+381,Huntington Ingalls Industries,Newport News,VA
+382,Mosaic,Plymouth,MN
+383,J.M. Smucker,Orrville,OH
+384,Delek US Holdings,Brentwood,TN
+385,Newmont Mining,Greenwood Village,CO
+386,Constellation Brands,Victor,NY
+387,Ryder System,Miami,FL
+388,National Oilwell Varco,Houston,TX
+389,Adobe Systems,San Jose,CA
+390,LifePoint Health,Brentwood,TN
+391,Tractor Supply,Brentwood,TN
+392,Thor Industries,Elkhart,IN
+393,Dana,Maumee,OH
+394,Weyerhaeuser,Seattle,WA
+395,J.B. Hunt Transport Services,Lowell,AR
+396,Darden Restaurants,Orlando,FL
+397,Yum China Holdings,Plano,TX
+398,Blackstone Group,New York,NY
+399,Berry Global Group,Evansville,IN
+400,Builders FirstSource,Dallas,TX
+401,Activision Blizzard,Santa Monica,CA
+402,JetBlue Airways,Long Island City,NY
+403,Amphenol,Wallingford,CT
+404,A-Mark Precious Metals,El Segundo,CA
+405,Spirit AeroSystems Holdings,Wichita,KS
+406,R.R. Donnelley & Sons,Chicago,IL
+407,Harris,Melbourne,FL
+408,Expeditors Intl. of Washington,Seattle,WA
+409,Discovery,Silver Spring,MD
+410,Owens-Illinois,Perrysburg,OH
+411,Sanmina,San Jose,CA
+412,KeyCorp,Cleveland,OH
+413,American Financial Group,Cincinnati,OH
+414,Oshkosh,Oshkosh,WI
+415,Rockwell Collins,Cedar Rapids,IA
+416,Kindred Healthcare,Louisville,KY
+417,Insight Enterprises,Tempe,AZ
+418,Dr Pepper Snapple Group,Plano,TX
+419,American Tower,Boston,MA
+420,Fortive,Everett,WA
+421,Ralph Lauren,New York,NY
+422,HRG Group,New York,NY
+423,Ascena Retail Group,Mahwah,NJ
+424,United Rentals,Stamford,CT
+425,Caseys General Stores,Ankeny,IA
+426,Graybar Electric,St. Louis,MO
+427,Avery Dennison,Glendale,CA
+428,MasTec,Coral Gables,FL
+429,CMS Energy,Jackson,MI
+430,HD Supply Holdings,Atlanta,GA
+431,Raymond James Financial,St. Petersburg,FL
+432,NCR,Atlanta,GA
+433,Hanesbrands,Winston-Salem,NC
+434,Asbury Automotive Group,Duluth,GA
+435,Citizens Financial Group,Providence,RI
+436,Packaging Corp. of America,Lake Forest,IL
+437,Alleghany,New York,NY
+438,Apache,Houston,TX
+439,Dillards,Little Rock,AR
+440,Assurant,New York,NY
+441,Franklin Resources,San Mateo,CA
+442,Owens Corning,Toledo,OH
+443,Motorola Solutions,Chicago,IL
+444,NVR,Reston,VA
+445,Rockwell Automation,Milwaukee,WI
+446,TreeHouse Foods,Oak Brook,IL
+447,Wynn Resorts,Las Vegas,NV
+448,Olin,Clayton,MO
+449,American Axle & Manufacturing,Detroit,MI
+450,Old Republic International,Chicago,IL
+451,Chemours,Wilmington,DE
+452,iHeartMedia,San Antonio,TX
+453,Ameren,St. Louis,MO
+454,Arthur J. Gallagher,Rolling Meadows,IL
+455,Celanese,Irving,TX
+456,Sealed Air,Charlotte,NC
+457,UGI,King of Prussia,PA
+458,Realogy Holdings,Madison,NJ
+459,Burlington Stores,Burlington,NJ
+460,Regions Financial,Birmingham,AL
+461,AK Steel Holding,Beckett Ridge,OH
+462,Securian Financial Group,St Paul,MN
+463,S& P Global,New York,NY
+464,Markel,Glen Allen,VA
+465,TravelCenters of America,Westlake,OH
+466,Conduent,Florham Park,NJ
+467,M& T Bank Corp.,Buffalo,NY
+468,Clorox,Oakland,CA
+469,AmTrust Financial Services,New York,NY
+470,KKR,New York,NY
+471,Ulta Beauty,Bolingbrook,IL
+472,Yum Brands,Louisville,KY
+473,Regeneron Pharmaceuticals,Tarrytown,NY
+474,Windstream Holdings,Little Rock,AR
+475,Magellan Health,Scottsdale,AZ
+476,Western & Southern Financial,Cincinnati,OH
+477,Intercontinental Exchange,Atlanta,GA
+478,Ingredion,Westchester,IL
+479,Wyndham Destinations,Parsippany-Troy Hills,NJ
+480,Toll Brothers,Horsham,PA
+481,Seaboard,Merriam,KS
+482,Booz Allen Hamilton,McLean,VA
+483,First American Financial,Santa Ana,CA
+484,Cincinnati Financial,Fairfield,OH
+485,Avon Products,Rye,NY
+486,Northern Trust,Chicago,IL
+487,Fiserv,Brookfield,WI
+488,Harley-Davidson,Milwaukee,WI
+489,Cheniere Energy,Houston,TX
+490,Patterson,St Paul,MN
+491,Peabody Energy,St. Louis,MO
+492,ON Semiconductor,Phoenix,AZ
+493,Simon Property Group,Indianapolis,IN
+494,Western Union,Englewood,CO
+495,NetApp,Sunnyvale,CA
+496,Polaris Industries,Medina,MN
+497,Pioneer Natural Resources,Irving,TX
+498,ABM Industries,New York,NY
+499,Vistra Energy,Irving,TX
+500,Cintas,Cincinnati,OH
+501,Hess,New York,NY
+502,Host Hotels & Resorts,Bethesda,MD
+503,Kelly Services,Troy,MI
+504,Genesis Healthcare,Kennett Square,PA
+505,Michaels Cos.,Irving,TX
+506,Advanced Micro Devices,Santa Clara,CA
+507,Zoetis,Parsippany-Troy Hills,NJ
+508,Williams-Sonoma,SF,CA
+509,Fortune Brands Home & Security,Deerfield,IL
+510,Big Lots,Columbus,OH
+511,Robert Half International,Menlo Park,CA
+512,Post Holdings,St. Louis,MO
+513,Hasbro,Pawtucket,RI
+514,Hanover Insurance Group,Worcester,MA
+515,Navient,Wilmington,DE
+516,Intuit,Mountain View,CA
+517,Domtar,Fort Mill,SC
+518,Marathon Oil,Houston,TX
+519,Cerner,North Kansas City,MO
+520,Analog Devices,Norwood,MA
+521,Telephone & Data Systems,Chicago,IL
+522,Essendant,Deerfield,IL
+523,Sonoco Products,Hartsville,SC
+524,Juniper Networks,Sunnyvale,CA
+525,Commercial Metals,Irving,TX
+526,CSRA,Falls Church,VA
+527,Under Armour,Baltimore,MD
+528,RPM International,Medina,OH
+529,Total System Services,Columbus,GA
+530,Levi Strauss,SF,CA
+531,Brunswick,Libertyville,IL
+532,YRC Worldwide,Overland Park,KS
+533,Mattel,El Segundo,CA
+534,FM Global,Johnston,RI
+535,NiSource,Merrillville,IN
+536,Caesars Entertainment,Las Vegas,NV
+537,Electronic Arts,Redwood City,CA
+538,Dynegy,Houston,TX
+539,McCormick,Sparks Glencoe,MD
+540,T. Rowe Price,Baltimore,MD
+541,Orbital ATK,Sterling,VA
+542,Tutor Perini,Los Angeles,CA
+543,Brookdale Senior Living,Brentwood,TN
+544,Huntington Bancshares,Columbus,OH
+545,Wayfair,Boston,MA
+546,Rush Enterprises,New Braunfels,TX
+547,Xylem,Rye Brook,NY
+548,Neiman Marcus Group,Dallas,TX
+549,Hyatt Hotels,Chicago,IL
+550,Sprouts Farmers Market,Phoenix,AZ
+551,Diebold Nixdorf,North Canton,OH
+552,Roper Technologies,Sarasota,FL
+553,Smart & Final Stores,Commerce,CA
+554,CommScope Holding,Newton,NC
+555,Tapestry,New York City,NY
+556,Diplomat Pharmacy,Flint,MI
+557,Chipotle Mexican Grill,Denver,CO
+558,Agilent Technologies,Santa Clara,CA
+559,Science Applications International,Reston,VA
+560,MDU Resources Group,Bismarck,ND
+561,Select Medical Holdings,Mechanicsburg,PA
+562,Boise Cascade,Boise,ID
+563,National General Holdings,New York,NY
+564,SCANA,Cayce,SC
+565,Graphic Packaging Holding,Atlanta,GA
+566,Fastenal,Winona,MN
+567,Schneider National,Green Bay,WI
+568,Laureate Education,Baltimore,MD
+569,Beacon Roofing Supply,Herndon,VA
+570,KB Home,Los Angeles,CA
+571,Equinix,Redwood City,CA
+572,Terex,Westport,CT
+573,Crown Castle International,Houston,TX
+574,CACI International,Arlington,VA
+575,Watsco,Miami,FL
+576,Coca-Cola Bottling,Charlotte,NC
+577,Welltower,Toledo,OH
+578,ADT,Boca Raton,FL
+579,Ametek,Berwyn,PA
+580,CNO Financial Group,Carmel,IN
+581,Camping World Holdings,Lincolnshire,IL
+582,LPL Financial Holdings,Boston,MA
+583,Noble Energy,Houston,TX
+584,Bloomin Brands,Tampa,FL
+585,Moodys,New York,NY
+586,Symantec,Mountain View,CA
+587,Amkor Technology,Tempe,AZ
+588,Skechers U.S.A.,Manhattan Beach,CA
+589,KBR,Houston,TX
+590,Tiffany,New York,NY
+591,Torchmark,McKinney,TX
+592,Broadridge Financial Solutions,Lake Success,NY
+593,Quad/Graphics,Sussex,WI
+594,CF Industries Holdings,Deerfield,IL
+595,Carlisle,Scottsdale,AZ
+596,Silgan Holdings,Stamford,CT
+597,Bemis,Neenah,WI
+598,CA,New York,NY
+599,Hub Group,Oak Brook,IL
+600,Worldpay,Cincinnati,OH
+601,Ingles Markets,Black Mountain,NC
+602,Snap-on,Kenosha,WI
+603,Dentsply Sirona,York,PA
+604,Calumet Specialty Products,Indianapolis,IN
+605,Global Payments,Atlanta,GA
+606,Encompass Health,Birmingham,AL
+607,Martin Marietta Materials,Raleigh,NC
+608,Nasdaq,New York,NY
+609,Leggett & Platt,Carthage,MO
+610,Universal Forest Products,Grand Rapids,MI
+611,Sally Beauty Holdings,Denton,TX
+612,Flowers Foods,Thomasville,GA
+613,Barnes & Noble,New York,NY
+614,American Equity Investment Life,West Des Moines,IA
+615,Vulcan Materials,Birmingham,AL
+616,Taylor Morrison Home,Scottsdale,AZ
+617,Westinghouse Air Brake,Wilmerding,PA
+618,Crestwood Equity Partners,Houston,TX
+619,Iron Mountain,Boston,MA
+620,Lennox International,Richardson,TX
+621,General Cable,Highland Heights,KY
+622,American Eagle Outfitters,Pittsburgh,PA
+623,Church & Dwight,Ewing Township,NJ
+624,Platform Specialty Products,West Palm Beach,FL
+625,JELD-WEN Holding,Charlotte,NC
+626,OneMain Holdings,Evansville,IN
+627,Colfax,Annapolis Junction,MD
+628,Zebra Technologies,Lincolnshire,IL
+629,Andersons,Maumee,OH
+630,TD Ameritrade Holding,Omaha,NE
+631,Carlyle Group,Leavenworth,WA
+632,Hubbell,Shelton,CT
+633,Trinity Industries,Dallas,TX
+634,Darling Ingredients,Irving,TX
+635,Flowserve,Irving,TX
+636,Antero Resources,Denver,CO
+637,Skyworks Solutions,Woburn,MA
+638,Landstar System,Jacksonville,FL
+639,Buckeye Partners,Houston,TX
+640,MRC Global,Houston,TX
+641,CME Group,Chicago,IL
+642,Greif,Delaware,OH
+643,Nexeo Solutions,The Woodlands,TX
+644,Cooper-Standard Holdings,Novi,MI
+645,Urban Outfitters,Philadelphia,PA
+646,LSC Communications,Chicago,IL
+647,Sabre,Southlake,TX
+648,Green Plains,Omaha,NE
+649,Hexion,Columbus,OH
+650,Stericycle,Lake Forest,IL
+651,Warner Music Group,New York,NY
+652,Ventas,Chicago,IL
+653,ScanSource,Greenville,SC
+654,Pinnacle West Capital,Phoenix,AZ
+655,Scripps Networks Interactive,Knoxville,TN
+656,Alexion Pharmaceuticals,New Haven,CT
+657,Pitney Bowes,Stamford,CT
+658,CIT Group,New York,NY
+659,Country Financial,Bloomington,IL
+660,CUNA Mutual Group,Madison,WI
+661,Triumph Group,Berwyn,PA
+662,TransDigm Group,Cleveland,OH
+663,Allegheny Technologies,Pittsburgh,PA
+664,Resolute Forest Products,Catawba,SC
+665,Acuity Brands,Atlanta,GA
+666,Abercrombie & Fitch,New Albany,OH
+667,KLA-Tencor,Milpitas,CA
+668,Weis Markets,Sunbury,PA
+669,Puget Energy,Bellevue,WA
+670,Mednax,Fort Lauderdale,FL
+671,Kar Auction Services,Carmel,IN
+672,PolyOne,Avon Lake,OH
+673,FMC,Philadelphia,PA
+674,Edwards Lifesciences,Irvine,CA
+675,Microchip Technology,Chandler,AZ
+676,Amerco,Reno,NV
+677,Mercury General,Los Angeles,CA
+678,American National Insurance,Galveston,TX
+679,Carters,Atlanta,GA
+680,International Flavors & Fragrances,New York,NY
+681,Aarons,Atlanta,GA
+682,Alliant Energy,Madison,WI
+683,EQT,Pittsburgh,PA
+684,Monster Beverage,Corona,CA
+685,BMC Stock Holdings,Atlanta,GA
+686,Ryerson Holding,Chicago,IL
+687,Equifax,Atlanta,GA
+688,Regal Beloit,Beloit,WI
+689,Old Dominion Freight Line,Thomasville,NC
+690,American Water Works,Voorhees Township,NJ
+691,BGC Partners,New York,NY
+692,Brinks,Richmond,VA
+692,Meritor,Richmond,VA
+694,Sentry Insurance Group,Stevens Point,WI
+695,Sanderson Farms,Laurel,MS
+696,KapStone Paper & Packaging,Northbrook,IL
+697,Gartner,Stamford,CT
+698,IAC/InterActiveCorp,New York City,NY
+699,Tailored Brands,Houston,TX
+700,WABCO Holdings,Rochester Hills,MI
+701,Insperity,Houston,TX
+702,Comerica,Dallas,TX
+703,TriNet Group,San Leandro,CA
+704,Avaya Holdings,Santa Clara,CA
+705,Ashland Global Holdings,Covington,KY
+706,Meritage Homes,Scottsdale,AZ
+707,SkyWest,St. George,UT
+708,USG,Chicago,IL
+709,Southwestern Energy,Spring,TX
+710,Keysight Technologies,Santa Rosa,CA
+711,Regal Entertainment Group,Knoxville,TN
+712,Mutual of America Life Insurance,New York,NY
+713,Paychex,Rochester,NY
+714,Brinker International,Dallas,TX
+715,Penn National Gaming,Wyomissing,PA
+716,Gannett,McLean,VA
+717,Visteon,Van Buren Charter Township,MI
+718,Pinnacle Foods,Parsippany-Troy Hills,NJ
+719,Intuitive Surgical,Sunnyvale,CA
+720,Continental Resources,Oklahoma City,OK
+721,Service Corp. International,Houston,TX
+722,Scientific Games,Las Vegas,NV
+723,Albemarle,Charlotte,NC
+724,Atmos Energy,Dallas,TX
+725,Hologic,Marlboro,MA
+726,H& R Block,KCMO,MO
+727,Qorvo,Greensboro,NC
+728,Steelcase,Grand Rapids,MI
+729,Univision Communications,New York,NY
+730,Worthington Industries,Columbus,OH
+731,Timken,North Canton,OH
+732,A.O. Smith,Milwaukee,WI
+733,PriceSmart,San Diego,CA
+734,Stifel Financial,St. Louis,MO
+735,Brown-Forman,Louisville,KY
+736,Cinemark Holdings,Plano,TX
+737,Granite Construction,Watsonville,CA
+738,Dycom Industries,Palm Beach Gardens,FL
+739,Clean Harbors,Norwell,MA
+740,First Solar,Tempe,AZ
+741,Scotts Miracle-Gro,Marysville,OH
+742,Cracker Barrel Old Country Store,Lebanon,TN
+743,Triple-S Management,San Juan,Puerto Rico
+744,First Republic Bank,SF,CA
+745,ServiceMaster Global Holdings,Memphis,TN
+746,PC Connection,Merrimack,NH
+747,Genesco,Nashville,TN
+748,Medical Mutual of Ohio,Cleveland,OH
+749,MSC Industrial Direct,Melville,NY
+750,Legg Mason,Baltimore,MD
+751,Hyster-Yale Materials Handling,Cleveland,OH
+752,Apollo Global Management,New York,NY
+753,Citrix Systems,Fort Lauderdale,FL
+754,Acadia Healthcare,Franklin,TN
+755,Varian Medical Systems,Palo Alto,CA
+756,Groupon,Chicago,IL
+757,Aleris,Cleveland,OH
+758,Sprague Resources,Portsmouth,NH
+759,Cooper Tire & Rubber,Findlay,OH
+760,Hain Celestial Group,Lake Success,NY
+761,Penn Mutual Life Insurance,Horsham,PA
+762,Colony NorthStar,Los Angeles,CA
+763,ArcBest,Fort Smith,AR
+764,Presidio,New York,NY
+765,TRI Pointe Group,Irvine,CA
+766,Annaly Capital Management,New York,NY
+767,G-III Apparel Group,New York,NY
+768,AMC Networks,New York,NY
+769,Enable Midstream Partners,Oklahoma City,OK
+770,Ciena,Hanover,MD
+771,DSW,Columbus,OH
+772,Convergys,Cincinnati,OH
+773,Park Hotels & Resorts,McLean,VA
+774,Pool,Covington,LA
+775,Fossil Group,Richardson,TX
+776,Dominos Pizza,Ann Arbor,MI
+777,Crane,Stamford,CT
+778,Caleres,St. Louis,MO
+779,Tempur Sealy International,Lexington,KY
+780,Tetra Tech,Pasadena,CA
+781,Illumina,San Diego,CA
+782,Valmont Industries,Omaha,NE
+783,Hill-Rom Holdings,Chicago,IL
+784,Unisys,Blue Bell,PA
+785,Zions Bancorp.,Salt Lake City,UT
+786,Sinclair Broadcast Group,Cockeysville,MD
+787,Louisiana-Pacific,Nashville,TN
+788,Mettler-Toledo International,Columbus,OH
+789,Synopsys,Mountain View,CA
+790,Kemper,Chicago,IL
+791,Cabot,Boston,MA
+792,Great Plains Energy,KCMO,MO
+793,Rent-A-Center,Plano,TX
+794,Hawaiian Holdings,Honolulu,HI
+795,Revlon,New York,NY
+796,Syneos Health,Raleigh,NC
+797,Public Storage,Glendale,CA
+798,TTM Technologies,Costa Mesa,CA
+799,Vectren,Evansville,IN
+800,Trimble,Sunnyvale,CA
+801,NOW,Houston,TX
+802,Spirit Airlines,Miramar,FL
+803,ASGN,Calabasas,CA
+804,Lincoln Electric Holdings,Cleveland,OH
+805,Prologis,SF,CA
+806,Range Resources,Fort Worth,TX
+807,Teledyne Technologies,Thousand Oaks,CA
+808,Vishay Intertechnology,Malvern,PA
+809,Boston Properties,Boston,MA
+810,Applied Industrial Technologies,Cleveland,OH
+811,Graham Holdings,Arlington,VA
+812,Amica Mutual Insurance,Lincoln,RI
+813,Concho Resources,Midland,TX
+814,ITT,White Plains,NY
+815,Kansas City Southern,KCMO,MO
+816,MDC Holdings,Denver,CO
+817,Evergy,Topeka,KS
+818,Pinnacle Entertainment,Las Vegas,NV
+819,Hawaiian Electric Industries,Honolulu,HI
+820,TEGNA,McLean,VA
+821,Southwest Gas Holdings,Las Vegas,NV
+822,Vista Outdoor,Farmington,UT
+823,Bon-Ton Stores,York,PA
+824,Super Micro Computer,San Jose,CA
+825,Plexus,Neenah,WI
+826,TrueBlue,Tacoma,WA
+827,Magellan Midstream Partners,Tulsa,OK
+828,Toro,Bloomington,MN
+829,Akamai Technologies,Cambridge,MA
+830,Moog,Elma Center,NY
+831,Vertex Pharmaceuticals,Boston,MA
+832,Equity Residential,Chicago,IL
+833,Selective Insurance Group,Branchville,NJ
+834,AptarGroup,Crystal Lake,IL
+835,Benchmark Electronics,Scottsdale,AZ
+836,Columbia Sportswear,Portland,OR
+837,A. Schulman,Fairlawn,OH
+838,Verso,Miamisburg,OH
+839,Digital Realty Trust,SF,CA
+840,GNC Holdings,Pittsburgh,PA
+841,E*Trade Financial,New York,NY
+842,Hovnanian Enterprises,Red Bank,NJ
+843,Maximus,Reston,VA
+844,Twitter,SF,CA
+845,Par Pacific Holdings,Houston,TX
+846,Parexel International,Waltham,MA
+847,RH,Corte Madera,CA
+848,Nexstar Media Group,Irving,TX
+849,Knight-Swift Transportation Holdings,Phoenix,AZ
+850,Red Hat,Raleigh,NC
+851,Belden,St. Louis,MO
+852,Boyd Gaming,Las Vegas,NV
+853,Primoris Services,Dallas,TX
+854,Gardner Denver,Milwaukee,WI
+855,Donaldson,Minneapolis,MN
+856,Party City Holdco,Elmsford,NY
+857,J.Crew Group,New York,NY
+858,EnerSys,Reading,PA
+859,Guess,Los Angeles,CA
+860,Patterson-UTI Energy,Houston,TX
+861,WGL Holdings,Leavenworth,WA
+862,Wolverine World Wide,Rockford,MI
+863,Xilinx,San Jose,CA
+864,Vornado Realty Trust,New York,NY
+865,Middleby,Elgin,IL
+866,MPM Holdings,Waterford,NY
+867,Cleveland-Cliffs,Cleveland,OH
+868,GGP,Chicago,IL
+869,Cypress Semiconductor,San Jose,CA
+870,Arch Coal,St. Louis,MO
+871,GMS,Tucker,GA
+872,Waters,Milford,MA
+873,H.B. Fuller,St Paul,MN
+874,Affiliated Managers Group,West Palm Beach,FL
+875,PerkinElmer,Waltham,MA
+876,Edgewell Personal Care,Chesterfield,MO
+877,Maxim Integrated Products,San Jose,CA
+878,Knights of Columbus,New Haven,CT
+879,IDEX,Lake Forest,IL
+880,DST Systems,KCMO,MO
+881,Chicos FAS,Fort Myers,FL
+882,Nu Skin Enterprises,Provo,UT
+883,Herman Miller,Zeeland,MI
+884,NLV Financial,Montpelier,VT
+885,Curtiss-Wright,Charlotte,NC
+886,New Jersey Resources,Wall Township,NJ
+887,REV Group,Milwaukee,WI
+888,Mueller Industries,Memphis,TN
+889,GEO Group,Boca Raton,FL
+890,Allison Transmission Holdings,Indianapolis,IN
+891,OGE Energy,Oklahoma City,OK
+892,Cheesecake Factory,Calabasas,CA
+893,PRA Health Sciences,Raleigh,NC
+894,Tupperware Brands,Orlando,FL
+895,Euronet Worldwide,Leawood,KS
+896,FLEETCOR Technologies,Norcross,GA
+897,Nationstar Mortgage Holdings,Coppell,TX
+898,GoDaddy,Scottsdale,AZ
+899,Blackhawk Network Holdings,Pleasanton,CA
+900,Cboe Global Markets,Chicago,IL
+901,Snyders-Lance,Charlotte,NC
+902,Murphy Oil,El Dorado,AR
+903,CDK Global,Hoffman Estates,IL
+904,Texas Roadhouse,Louisville,KY
+905,Kirby,Houston,TX
+906,Square,SF,CA
+907,Genesee & Wyoming,Darien,CT
+908,Zayo Group Holdings,Boulder,CO
+909,NewMarket,Richmond,VA
+910,99 Cents Only Stores,Commerce,CA
+911,PCM,El Segundo,CA
+912,Federated Mutual Insurance,Owatonna,MN
+913,HNI,Muscatine,IA
+914,Hospitality Properties Trust,Newton,MA
+915,Greenbrier Cos.,Lake Oswego,OR
+916,Bio-Rad Laboratories,Hercules,CA
+917,AvalonBay Communities,Arlington,VA
+918,Renewable Energy Group,Ames,IA
+919,Atlas Air Worldwide Holdings,Harrison,NY
+920,Teradata,Dayton,OH
+921,LCI Industries,Elkhart,IN
+922,Teleflex,Wayne,PA
+923,Verisk Analytics,Jersey City,NJ
+924,Popular,Hato Rey,Puerto Rico
+925,Workday,Pleasanton,CA
+926,Cooper Cos.,Pleasanton,CA
+927,Express,Columbus,OH
+928,Teradyne,North Reading,MA
+929,Werner Enterprises,Omaha,NE
+930,Oaktree Capital Group,Los Angeles,CA
+931,Woodward,Fort Collins,CO
+932,F5 Networks,Seattle,WA
+933,Valvoline,Lexington,KY
+934,Roadrunner Transportation Systems,Downers Grove,IL
+935,SemGroup,Tulsa,OK
+936,Catalent,Franklin Township,NJ
+937,Quorum Health,Brentwood,TN
+938,Universal,Richmond,VA
+939,Nordson,Westlake,OH
+940,ResMed,San Diego,CA
+941,Tower International,Livonia,MI
+942,Freds,Memphis,TN
+943,Foundation Building Materials,Tustin,CA
+944,Kennametal,Pittsburgh,PA
+945,Autodesk,San Rafael,CA
+946,Ply Gem Holdings,Cary,NC
+947,Central Garden & Pet,Walnut Creek,CA
+948,Matson,Honolulu,HI
+949,EchoStar,Englewood,CO
+950,Genesis Energy,Houston,TX
+951,SVB Financial Group,Santa Clara,CA
+952,Itron,Liberty Lake,WA
+953,Portland General Electric,Portland,OR
+954,California Resources,Los Angeles,CA
+955,Esterline Technologies,Bellevue,WA
+956,Delta Tucker Holdings,McLean,VA
+957,AMN Healthcare Services,San Diego,CA
+958,Griffon,New York,NY
+959,Valhi,Dallas,TX
+960,Hexcel,Stamford,CT
+961,IDEXX Laboratories,Westbrook,ME
+962,Deluxe,Shoreview,MN
+963,M/I Homes,Columbus,OH
+964,Kraton,Houston,TX
+965,Stewart Information Services,Houston,TX
+966,Marriott Vacations Worldwide,Orlando,FL
+967,SPX FLOW,Charlotte,NC
+968,ACCO Brands,Lake Zurich,IL
+969,Echo Global Logistics,Chicago,IL
+970,Cadence Design Systems,San Jose,CA
+971,Nuance Communications,Burlington,MA
+972,Finish Line,Indianapolis,IN
+973,TransUnion,Chicago,IL
+974,ServiceNow,Santa Clara,CA
+975,Summit Materials,Denver,CO
+976,Engility Holdings,Chantilly,VA
+977,Ferrellgas Partners,Overland Park,KS
+978,Interactive Brokers Group,Greenwich,CT
+979,Stepan,Northfield,IL
+980,Oceaneering International,Houston,TX
+981,Cimarex Energy,Denver,CO
+982,Rexnord,Milwaukee,WI
+983,Beazer Homes USA,Atlanta,GA
+984,MKS Instruments,Andover,MA
+985,Vail Resorts,Broomfield,CO
+986,Ohio National Mutual,Cincinnati,OH
+987,TopBuild,Daytona Beach,FL
+988,Brown & Brown,Daytona Beach,FL
+989,Aerojet Rocketdyne Holdings,El Segundo,CA
+990,Barnes & Noble Education,Bernards,NJ
+991,Superior Energy Services,Houston,TX
+992,VeriFone Systems,San Jose,CA
+993,Childrens Place,Secaucus,NJ
+994,Tribune Media,Chicago,IL
+995,Healthcare Services Group,Bensalem,PA
+996,SiteOne Landscape Supply,Roswell,GA
+997,Charles River Laboratories Intl,Wilmington,MA
+998,CoreLogic,Irvine,CA
+999,Ensign Group,Mission Viejo,CA
+1000,HCP,Irvine,CA
